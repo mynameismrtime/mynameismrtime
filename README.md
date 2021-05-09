@@ -5,7 +5,7 @@
     <img src="https://api.ghprofile.me/view?username=mynameismax&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
   <a href="https://discord.com/users/234464614996246529">
-    <img src="https://img.shields.io/badge/Discord-MrTime%236969-%237289da?logo=discord&style=flat-square" alt="Discord: MrTime#6969"/>
+    <img src="https://img.shields.io/badge/Discord-maxx%230003-%237289da?logo=discord&style=flat-square" alt="Discord: maxx#0003"/>
   </a>
   <a href="https://twitter.com/mynameismrtime">
     <img src="https://img.shields.io/badge/Twitter-mynameismrtime-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: mynameismrtime"/>
